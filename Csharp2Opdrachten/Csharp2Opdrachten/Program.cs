@@ -1,12 +1,12 @@
 ﻿using System;
-
 namespace Csharp2Opdrachten
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public void Hello()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello");
         }
-    }
+    } 
+
 }
